@@ -19,7 +19,7 @@ A personal finance management web application with user authentication, transact
 - Database: MongoDB Atlas with Mongoose
 - Authentication: JWT tokens
 - File Upload: Multer
-- OCR: Tesseract.js
+- OCR: Gemini API
 - PDF Parsing: pdf-parse
 - Charts: Chart.js
 
